@@ -1,0 +1,2 @@
+game: game_ID, creation_time, duration, season_ID, winning_team
+team: game_ID,tower_kills,inhibitor_kills,baron_kills,dragon_kills,riftherald_kills,team_ID
